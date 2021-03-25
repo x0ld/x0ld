@@ -7,7 +7,7 @@
 
 ## How to Contact me ? 
 
-- Twitter : https://twitter.com/xm4sh_
+- Twitter : @xm4sh_
 - Discord : xm4sh#4834
 - HTB : https://www.hackthebox.eu/home/users/profile/491690
 
