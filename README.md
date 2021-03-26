@@ -7,7 +7,7 @@
 
 - Twitter : @xm4sh_
 - Discord : xm4sh#4834
-- HTB : https://www.hackthebox.eu/home/users/profile/491690
+- HTB : https://app.hackthebox.eu/profile/491690
 
 <!---
 xm4sh/xm4sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
