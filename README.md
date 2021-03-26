@@ -3,8 +3,6 @@
  
  # Hi, I’m @xm4sh
 
-## On my github, I would post my Write-Ups on different HackTheBox machines, including some challenges.
-
 ## How to Contact me ? 
 
 - Twitter : @xm4sh_
