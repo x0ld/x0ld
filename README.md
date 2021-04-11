@@ -7,7 +7,7 @@
 
 </h1> <br>  <a href="https://twitter.com/xm4sh_"><img src="https://image.flaticon.com/icons/png/512/23/23931.png" width="60"></a> <a href="https://www.hackthebox.eu/profile/491690"><img src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png" width="60"></a> <h1>
 
-### Discord : squad#4834
+### Discord : shield#7777
 
 
 <!---
