@@ -1,13 +1,13 @@
  
  ![rick](https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gif)
  
- # Hi, I’m @xm4sh, french CTF player mainly on HackTheBox.
+ # Hi, I’m @x0ld, french CTF player mainly on HackTheBox.
 
 ## 📝 How to Contact me ? 
 
 </h1> <br>  <a href="https://twitter.com/xm4sh_"><img src="https://image.flaticon.com/icons/png/512/23/23931.png" width="60"></a> <a href="https://www.hackthebox.eu/profile/491690"><img src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png" width="60"></a> <h1>
 
-### Discord : shield#7777
+### Discord : xold#8106
 
 
 <!---
