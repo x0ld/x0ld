@@ -1,7 +1,7 @@
  
  ![rick](https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gif)
  
- # Hi, I’m @x0ld, french CTF player mainly on HackTheBox.
+ 
 
 ## 📝 How to Contact me ? 
 
